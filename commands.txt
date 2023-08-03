@@ -2,4 +2,4 @@
 git add
 git commit -m
 git status
-git origin main push
+git remote -v
