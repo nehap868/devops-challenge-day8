@@ -1,3 +1,4 @@
-git init
-git status
-git commit
+#commit changes
+git add
+git commit -m
+git origin main push
